@@ -1,3 +1,4 @@
 #include <iostream> U
 using namespace std;
-int main(
+int main{
+cout<<"HEllo World"
